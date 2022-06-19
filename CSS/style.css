@@ -1,0 +1,49 @@
+*{
+	background-color: black;
+}
+.button{
+	background-color: pink; /*Button Color: Pink*/
+	border: none;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 0 auto;
+	display: block;
+	font-size: 30px;
+	border-radius: 14px;
+	justify-content: center;  
+}
+
+#error{
+	white-space: nowrap;
+	width: 900px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	color: green;
+}
+
+#aaa{
+	color: whitesmoke;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 30px;
+	align-items: center; 
+	text-align: center;
+}
+
+.resize{
+	border-radius: 50px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+
+#bbb{
+	color: red;
+	font-size: 30px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	align-items: center; 
+	text-align: center;
+}
